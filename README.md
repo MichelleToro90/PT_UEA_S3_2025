@@ -1,5 +1,5 @@
 # PT_UEA_S3_2025
-# PT_UEA_S3_2025
+
 # Promedio Semanal de Temperaturas
 
 Este proyecto es una **aplicación simple** que permite calcular el **promedio de temperaturas de una semana**.  
