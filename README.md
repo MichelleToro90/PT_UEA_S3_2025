@@ -27,5 +27,5 @@ Está implementado en **Python** utilizando **programación tradicional** y una 
 ## Uso
 
 1. Clona o descarga este repositorio:
-   ```bash
+   ```bash https://github.com/MichelleToro90/PT_UEA_S3_2025.git
   
